@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+streamlit_lottie
+requests
+opencv-python
+mediapipe
+pyttsx3
+streamlit_webrtc
+datetime
+plotly.express
+plyer
+pillow
